@@ -4,3 +4,5 @@ Call Pizza Place
 Ask about deals
 Order Pizza
 Wait for pizza to arrive
+Pay Pizza Person
+Eat My Pizza
